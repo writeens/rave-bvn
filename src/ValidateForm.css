@@ -1,0 +1,48 @@
+.ValidateForm {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+.ValidateForm button {
+    font-family: inherit;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.8rem 1.3rem 0.8rem 1.3rem;
+    background-color: rgb(17, 228, 17);
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+}
+.ValidateForm button:hover {
+    color: rgb(255, 253, 253);
+    background-color: green;
+}
+.ValidateForm input {
+    background: none;
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 0.3rem;
+    margin: 1rem;
+}
+.ValidateForm input:active{
+    background: none;
+    outline: none;
+}
+.ValidateForm input:focus {
+    background: none;
+    outline: none;
+}
+
+.ValidateForm input::placeholder {
+    color: grey;
+    font-family: monospace;
+}
+.ValidateForm label {
+    border-radius: 0.8rem;
+    background-color: rgb(33, 43, 54);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    color: 
+}
