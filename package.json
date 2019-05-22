@@ -2,8 +2,10 @@
   "name": "rave-bvn",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://writeens.github.io/rave-bvn",
   "dependencies": {
     "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "localforage": "^1.7.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
