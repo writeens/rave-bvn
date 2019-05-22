@@ -32,6 +32,13 @@ class Validate extends Component {
                     isLoading:false,
                     data: {...st.data, ...details}
                 }))
+            } else{
+                alert("An error occured, Please try again");
+                this.setState({
+                    data:{},
+                    isLoading:false,
+                    isLoaded:false
+                })
             }
         })
     }
