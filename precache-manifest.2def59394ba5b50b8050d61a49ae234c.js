@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d5ff3c1528ee385f98ba4c0bd6ad523",
+    "revision": "4f306d0a45822e7285a945c6f57cfd06",
     "url": "/rave-bvn/index.html"
   },
   {
-    "revision": "5052cec6103a7dd665a0",
+    "revision": "59b0f9e557970e5f88b8",
     "url": "/rave-bvn/static/css/main.758b8bda.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rave-bvn/static/js/2.4aa89465.chunk.js"
   },
   {
-    "revision": "5052cec6103a7dd665a0",
-    "url": "/rave-bvn/static/js/main.b86107f2.chunk.js"
+    "revision": "59b0f9e557970e5f88b8",
+    "url": "/rave-bvn/static/js/main.a77b2a94.chunk.js"
   },
   {
     "revision": "5130bcad0b65da608a67",
