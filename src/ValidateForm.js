@@ -17,11 +17,13 @@ class ValidateForm extends Component {
     handleSubmit(evt){
         evt.preventDefault()
         if(isNaN(this.state.bvn)){
-            alert("Please check the BVN and try again")
-            this.setState({ bvn: ""})
+            alert("Please check the BVN and try again");
+            this.setState({ bvn: ""});
+        } else if(this.state.bvn.length !== 11) {
+            alert("The BVN should contain 11 digits, Please check and try again")
         } else {
-            this.props.validate(this.state.bvn)
-            this.setState({ bvn: ""})
+            this.props.validate(this.state.bvn);
+            this.setState({ bvn: ""});
         }
         
     }
