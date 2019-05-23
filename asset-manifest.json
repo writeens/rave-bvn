@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rave-bvn/static/css/main.758b8bda.chunk.css",
-    "main.js": "/rave-bvn/static/js/main.a77b2a94.chunk.js",
-    "main.js.map": "/rave-bvn/static/js/main.a77b2a94.chunk.js.map",
+    "main.css": "/rave-bvn/static/css/main.0196bf02.chunk.css",
+    "main.js": "/rave-bvn/static/js/main.a606137a.chunk.js",
+    "main.js.map": "/rave-bvn/static/js/main.a606137a.chunk.js.map",
     "runtime~main.js": "/rave-bvn/static/js/runtime~main.08af0c94.js",
     "runtime~main.js.map": "/rave-bvn/static/js/runtime~main.08af0c94.js.map",
     "static/js/2.4aa89465.chunk.js": "/rave-bvn/static/js/2.4aa89465.chunk.js",
     "static/js/2.4aa89465.chunk.js.map": "/rave-bvn/static/js/2.4aa89465.chunk.js.map",
     "index.html": "/rave-bvn/index.html",
-    "precache-manifest.2def59394ba5b50b8050d61a49ae234c.js": "/rave-bvn/precache-manifest.2def59394ba5b50b8050d61a49ae234c.js",
+    "precache-manifest.0acfa5922dda473631edf96c876f5f58.js": "/rave-bvn/precache-manifest.0acfa5922dda473631edf96c876f5f58.js",
     "service-worker.js": "/rave-bvn/service-worker.js",
-    "static/css/main.758b8bda.chunk.css.map": "/rave-bvn/static/css/main.758b8bda.chunk.css.map"
+    "static/css/main.0196bf02.chunk.css.map": "/rave-bvn/static/css/main.0196bf02.chunk.css.map"
   }
 }
