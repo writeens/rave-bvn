@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4947813df178ec8ea024faa7ef483c8b",
+    "revision": "a6645d89ccd7c5fa8abdbf1348e8665f",
     "url": "/rave-bvn/index.html"
   },
   {

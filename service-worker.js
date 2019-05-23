@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rave-bvn/precache-manifest.0acfa5922dda473631edf96c876f5f58.js"
+  "/rave-bvn/precache-manifest.3e8b3a6122b172c8a7bb6ab900fbf3a9.js"
 );
 
 self.addEventListener('message', (event) => {
